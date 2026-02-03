@@ -2,6 +2,14 @@
 
 
 
+## github for demo and instructions
+https://github.com/EnkrateiaLucca/llama2_oreilly_live_training/tree/main
+
+for ollam see:  
+https://github.com/EnkrateiaLucca/llama2_oreilly_live_training/blob/main/notebooks/1.0-quickstart-ollama.ipynb
+
+
+
 here is what commands i ran
 ```
  485  cd virtualenv
@@ -28,5 +36,17 @@ here is what commands i ran
   506  vi test1.py
   507  python test1.py
   508  ollama list
+
+```
+
+## using cli
+doc: https://docs.ollama.com/cli 
+
+This is how i did it
+
+```
+(venv_ollama) aliansari@Alis-MacBook-Air: ~/virtualenv/venv_ollama $ ollama run gemma3:1b
+>>> Hello. Can you tell me what LLM is?
+Okay, let's break down what an LLM is – it’s a really hot topic right now! Here's a breakdown of what it means:
 
 ```
