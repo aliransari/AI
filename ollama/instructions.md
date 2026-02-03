@@ -54,6 +54,15 @@ Okay, let's break down what an LLM is – it’s a really hot topic right now! H
 
 ## using streamlit
 
+this was a question i aksed:
+```
+sorry Lucas.. how did you get to port 8501 as in the UI localhist:8501 ... how would i open this port?
+
+streamlit does that for us, to run this use streamlit run app-name .py
+```
+
+so this is what i did in my virtualenv
+
 ```
 (venv_ollama) aliansari@Alis-MacBook-Air: ~/virtualenv/venv_ollama $ python -m pip install streamlit
 (venv_ollama) aliansari@Alis-MacBook-Air: ~/virtualenv/venv_ollama $ streamlit run test1.py
