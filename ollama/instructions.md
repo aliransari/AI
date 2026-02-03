@@ -50,3 +50,16 @@ This is how i did it
 Okay, let's break down what an LLM is – it’s a really hot topic right now! Here's a breakdown of what it means:
 
 ```
+
+
+## using streamlit
+
+```
+(venv_ollama) aliansari@Alis-MacBook-Air: ~/virtualenv/venv_ollama $ python -m pip install streamlit
+(venv_ollama) aliansari@Alis-MacBook-Air: ~/virtualenv/venv_ollama $ streamlit run test1.py
+
+-->
+this opens in your browser port 8501
+http://localhost:8501/
+
+```
