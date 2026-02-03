@@ -9,6 +9,13 @@ for ollam see:
 https://github.com/EnkrateiaLucca/llama2_oreilly_live_training/blob/main/notebooks/1.0-quickstart-ollama.ipynb
 
 
+## download ollama 
+This is the URL to download ollama
+https://ollama.com/download/mac
+
+
+
+## create virtualenv and install ollama cli
 
 here is what commands i ran
 ```
