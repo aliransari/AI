@@ -37,12 +37,28 @@ here is what commands i ran
   500  ollama pull gemma3:1b
   501  ollama
   502  vi test1.py
-  503  python test1.§
   504  python test1.py
   505  ls -alrt
   506  vi test1.py
   507  python test1.py
   508  ollama list
+  -->
+  displays the model youhave chosen in your script
+
+```
+
+This is the content of the script
+```
+# pwd = /Users/aliansari/virtualenv/venv_ollama
+import ollama
+
+response = ollama.chat(model='gemma3:1b', messages=[
+  {
+    'role': 'user',
+    'content': 'Say hello to my students for the course: "Getting Started with Llama 3". One single sentence.',
+  },
+])
+print(response['message']['content'])
 
 ```
 
