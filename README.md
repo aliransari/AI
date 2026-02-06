@@ -1,6 +1,6 @@
 # A repository for AI initiatives
 
-# Hello, I'm Ali Ransari 👋
+# Hello, I'm Ali 👋
 
 Welcome to my GitHub profile! I'm passionate about building innovative solutions and exploring the intersection of technology and creativity.
 
@@ -10,9 +10,7 @@ I'm a developer and tech enthusiast dedicated to writing clean, efficient code a
 
 ## 🔧 Skills & Technologies
 
-- **Languages**: JavaScript, Python, Java, C++
-- **Web Development**: React, Node.js, HTML5, CSS3
-- **Databases**: MongoDB, PostgreSQL, MySQL
+- **Languages**: JavaScript, Python
 - **Tools & Platforms**: Git, Docker, AWS, GitHub Actions
 - **Other**: RESTful APIs, Microservices, CI/CD
 
